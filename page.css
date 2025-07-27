@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  margin-top: 30px;
+  font-family: "Courier";
+  background-color: #fff5e4;
+  color: #ff9494;
+  
+}
+#Dỗi {
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.rizz {
+  max-width: 100%;
+  height: auto;
+}
+
+@media screen and (max-width: 600px) {
+  #rizz {
+    max-width: 80%; /* Thu nhỏ hơn chút trên màn hình nhỏ */
+  }
+}
+
